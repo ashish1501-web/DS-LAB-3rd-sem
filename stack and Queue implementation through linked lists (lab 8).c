@@ -88,7 +88,7 @@ int main()
           case 2:
             
             
-           deleteAThead(val);
+           deleteAThead();
             break;
         case 3:
             display();
@@ -101,7 +101,7 @@ int main()
           case 5:
             
             
-           deleteATend(val);
+           deleteATend();
             break;
         case 6:
             display();
